@@ -8,26 +8,26 @@ Arduino Calculator made in C with Arduino IDE
 
 ## Wire connections
 
-$  uno:GND.1 : lcd:VSS
-$  uno:GND.1 : lcd:K
-$  uno:GND.1 : lcd:RW
-$  uno:5V : lcd:VDD
-$  uno:5V : r1:2
-$  r1:1 : lcd:A
-$  uno:12 : lcd:RS
-$  uno:11 : lcd:E
-$  uno:10 : lcd:D4
-$  uno:9 : lcd:D5
-$  uno:8 : lcd:D6
-$  uno:7 : lcd:D7
-$  uno:A3 : keypad:C1
-$  uno:A2 : keypad:C2
-$  uno:A1 : keypad:C3
-$  uno:A0 : keypad:C4
-$  uno:5 : keypad:R1
-$  uno:4 : keypad:R2
-$  uno:3 : keypad:R3
-$  uno:2 : keypad:R4
+*  uno:GND.1 : lcd:VSS
+*  uno:GND.1 : lcd:K
+*  uno:GND.1 : lcd:RW
+*  uno:5V : lcd:VDD
+*  uno:5V : r1:2
+*  r1:1 : lcd:A
+*  uno:12 : lcd:RS
+*  uno:11 : lcd:E
+*  uno:10 : lcd:D4
+*  uno:9 : lcd:D5
+*  uno:8 : lcd:D6
+*  uno:7 : lcd:D7
+*  uno:A3 : keypad:C1
+*  uno:A2 : keypad:C2
+*  uno:A1 : keypad:C3
+*  uno:A0 : keypad:C4
+*  uno:5 : keypad:R1
+*  uno:4 : keypad:R2
+*  uno:3 : keypad:R3
+*  uno:2 : keypad:R4
 
 # Installation
 * Download Arduino IDE.
